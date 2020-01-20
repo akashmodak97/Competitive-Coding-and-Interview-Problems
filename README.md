@@ -15,6 +15,7 @@ This repo contains some problems from different popular coding platforms like Co
 5. Reverse Integer
 6. Trapping rain Water
 7. Two Sum
+8. Rotate Image
 
 
 
@@ -22,3 +23,6 @@ This repo contains some problems from different popular coding platforms like Co
 1. Manmohan Loves Pattern - I
 2. Manmohan Loves Pattern - II
 3. Von Neumann Loves Binary
+4. Fibonacci Pattern (Pattern 4)
+5. Pattern Triangle
+6. Pattern With Zeroes
