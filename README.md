@@ -35,3 +35,4 @@ This repo contains some problems from different popular coding platforms like Co
 # Hacker Rank
 1. Mini-Max Sum
 2. Simple Array Sum
+3. Repeated String
