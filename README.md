@@ -16,6 +16,8 @@ This repo contains some problems from different popular coding platforms like Co
 6. Trapping rain Water
 7. Two Sum
 8. Rotate Image
+9. Roman To Integer
+10. Search Insert Position
 
 
 
