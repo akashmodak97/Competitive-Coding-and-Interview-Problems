@@ -32,7 +32,7 @@ This repo contains some problems from different popular coding platforms like Co
 8. Decimal To Octal
 9. Binary To Decimal
 10. Pythagoren Triplet
-
+11. Mountain Pattern
 
 
 # Hacker Rank
