@@ -6,6 +6,7 @@ This repo contains some problems from different popular coding platforms like Co
 1. Usain Bolt vs Tiger
 2. Is this a give away
 3. Khaled in HIT
+4. Weapon Value
 
 
 # Leet Code
