@@ -7,6 +7,7 @@ This repo contains some problems from different popular coding platforms like Co
 2. Is this a give away
 3. Khaled in HIT
 4. Weapon Value
+5. Compress The List
 
 
 # Leet Code
