@@ -39,6 +39,7 @@ This repo contains some problems from different popular coding platforms like Co
 10. Pythagoren Triplet
 11. Mountain Pattern
 12. Pattern Double Sided Arrow
+13. Pattern Inverted Hour Glass
 
 
 # Hacker Rank
