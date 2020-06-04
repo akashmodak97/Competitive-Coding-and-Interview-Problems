@@ -41,6 +41,7 @@ This repo contains some problems from different popular coding platforms like Co
 12. Pattern Double Sided Arrow
 13. Pattern Inverted Hour Glass
 14. Hollow Diamond Pattern
+15. Activity Selection Problem
 
 
 # Hacker Rank
