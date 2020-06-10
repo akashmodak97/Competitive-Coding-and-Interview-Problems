@@ -46,6 +46,7 @@ This repo contains some problems from different popular coding platforms like Co
 13. Pattern Inverted Hour Glass
 14. Hollow Diamond Pattern
 15. Activity Selection Problem
+16. Wave Print Column Wise
 
 
 # Hacker Rank
