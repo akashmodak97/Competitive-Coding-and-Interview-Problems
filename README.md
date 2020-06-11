@@ -48,6 +48,7 @@ This repo contains some problems from different popular coding platforms like Co
 15. Activity Selection Problem
 16. Wave Print Column Wise
 17. Target Sum Pairs
+18. Target Sum Triplets
 
 
 # Hacker Rank
