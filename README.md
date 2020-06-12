@@ -2,14 +2,6 @@
 
 This repo contains some problems from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks,etc.
 
-# Code Chef
-1. Usain Bolt vs Tiger
-2. Is this a give away
-3. Khaled in HIT
-4. Weapon Value
-5. Compress The List
-
-
 # Leet Code
 1. Maximum Sub Array
 2. Maximum Sum Circular Sub Array
@@ -51,6 +43,15 @@ This repo contains some problems from different popular coding platforms like Co
 18. Target Sum Triplets
 19. Rain Water Harvesting
 20. Maximum Subarray Sum
+
+
+# Code Chef
+1. Usain Bolt vs Tiger
+2. Is this a give away
+3. Khaled in HIT
+4. Weapon Value
+5. Compress The List
+
 
 # Hacker Rank
 1. Mini-Max Sum
