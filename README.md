@@ -49,7 +49,7 @@ This repo contains some problems from different popular coding platforms like Co
 16. Wave Print Column Wise
 17. Target Sum Pairs
 18. Target Sum Triplets
-
+19. Rain Water Harvesting
 
 # Hacker Rank
 1. Mini-Max Sum
