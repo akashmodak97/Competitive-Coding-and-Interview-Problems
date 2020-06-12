@@ -27,7 +27,7 @@ This repo contains some problems from different popular coding platforms like Co
 14. Add Two Numbers
 15. Longest Common Prefix
 16. Container With Most Water
-
+17. 3Sum
 
 
 # Hacker Blocks
