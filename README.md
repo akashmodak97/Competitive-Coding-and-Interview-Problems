@@ -50,6 +50,7 @@ This repo contains some problems from different popular coding platforms like Co
 17. Target Sum Pairs
 18. Target Sum Triplets
 19. Rain Water Harvesting
+20. Maximum Subarray Sum
 
 # Hacker Rank
 1. Mini-Max Sum
