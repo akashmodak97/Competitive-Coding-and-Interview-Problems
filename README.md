@@ -52,6 +52,7 @@ This repo contains some problems from different popular coding platforms like Co
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
+2. Add One To Number
 
 # Code Chef
 1. Usain Bolt vs Tiger
