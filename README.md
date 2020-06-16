@@ -50,6 +50,9 @@ This repo contains some problems from different popular coding platforms like Co
 25. Form Biggest Number
 
 
+#Interview Bit
+1. Max Sum Contiguous Subarray
+
 # Code Chef
 1. Usain Bolt vs Tiger
 2. Is this a give away
