@@ -46,6 +46,7 @@ This repo contains some problems from different popular coding platforms like Co
 21. Maximum Circular Sum
 22. Maximum Length Bitonic Subarray
 23. Spiral Print Anticlockwise
+24. Rotate Image
 
 
 # Code Chef
