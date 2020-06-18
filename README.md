@@ -48,6 +48,7 @@ This repo contains some problems from different popular coding platforms like Co
 23. Spiral Print Anticlockwise
 24. Rotate Image
 25. Form Biggest Number
+26. Broken Calculator
 
 
 # Interview Bit
