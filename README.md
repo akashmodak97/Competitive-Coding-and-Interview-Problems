@@ -49,6 +49,7 @@ This repo contains some problems from different popular coding platforms like Co
 24. Rotate Image
 25. Form Biggest Number
 26. Broken Calculator
+27. Matrix Search
 
 
 # Interview Bit
