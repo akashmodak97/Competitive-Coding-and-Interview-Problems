@@ -1,6 +1,6 @@
 # Competitive-Coding-and-Interview-Problems
 
-This repo contains some problems from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks,etc.
+This repo contains some problems from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks, Interview Bit and Hackerrank.
 
 # Leet Code
 1. Maximum Sub Array
