@@ -57,6 +57,7 @@ This repo contains some problems from different popular coding platforms like Co
 1. Max Sum Contiguous Subarray
 2. Add One To Number
 3. Spiral Order Matrix II
+4. Min Steps To Infinite Grid
 
 # Code Chef
 1. Usain Bolt vs Tiger
