@@ -67,6 +67,7 @@ This repo contains some problems from different popular coding platforms like Co
 3. Khaled in HIT
 4. Weapon Value
 5. Compress The List
+6. Cache Hit
 
 
 # Hacker Rank
