@@ -52,6 +52,7 @@ This repo contains some problems from different popular coding platforms like Co
 26. Broken Calculator
 27. Matrix Search
 28. Sum of Two Arrays
+29. Median of Sorted Arrays
 
 
 # Interview Bit
