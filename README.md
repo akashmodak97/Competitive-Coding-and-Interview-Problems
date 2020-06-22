@@ -22,6 +22,7 @@ This repo contains some problems from different popular coding platforms like Co
 17. 3Sum
 18. Plus One
 19. Remove Duplicates From Sorted Array
+20. Remove Element
 
 
 # Hacker Blocks
