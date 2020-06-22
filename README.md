@@ -64,6 +64,7 @@ This repo contains some problems from different popular coding platforms like Co
 3. Spiral Order Matrix II
 4. Min Steps To Infinite Grid
 5. Triplets With Sum Between Given Range
+6. Largest Number
 
 # Code Chef
 1. Usain Bolt vs Tiger
