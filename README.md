@@ -59,6 +59,7 @@ This repo contains some problems from different popular coding platforms like Co
 31. Ultra Fast Mathematics
 32. Max Frequency Characters
 33. String Compression
+34. Is Palindrome
 
 
 # Interview Bit
