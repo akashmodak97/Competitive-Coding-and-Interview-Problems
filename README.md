@@ -58,6 +58,7 @@ This repo contains some problems from different popular coding platforms like Co
 30. Difference in ASCII Codes
 31. Ultra Fast Mathematics
 32. Max Frequency Characters
+33. String Compression
 
 
 # Interview Bit
