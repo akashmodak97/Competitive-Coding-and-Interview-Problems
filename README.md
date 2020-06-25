@@ -62,6 +62,7 @@ This repo contains some problems from different popular coding platforms like Co
 34. Is Palindrome
 35. Sanket And Strings
 36. Can You Read This?
+37. Piyush And Magical Park
 
 
 # Interview Bit
