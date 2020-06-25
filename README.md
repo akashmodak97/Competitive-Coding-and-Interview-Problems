@@ -63,6 +63,7 @@ This repo contains some problems from different popular coding platforms like Co
 35. Sanket And Strings
 36. Can You Read This?
 37. Piyush And Magical Park
+38. Kth Root
 
 
 # Interview Bit
