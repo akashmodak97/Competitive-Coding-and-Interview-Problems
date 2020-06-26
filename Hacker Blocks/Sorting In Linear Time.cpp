@@ -1,5 +1,5 @@
 /* Hacker Blocks */
-/* Title - Book Allocation Problem */
+/* Title - Sorting In Linear Time */
 /* Created By - Akash Modak */
 /* Date - 27/06/2020 */
 
