@@ -66,7 +66,7 @@ This repo contains some problems from different popular coding platforms like Co
 38. Kth Root
 39. Book Allocation Problem
 40. Sorting In Linear Time
-
+41. Aggressive Cows
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
