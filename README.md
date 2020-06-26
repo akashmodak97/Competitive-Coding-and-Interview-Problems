@@ -73,6 +73,7 @@ This repo contains some problems from different popular coding platforms like Co
 4. Min Steps To Infinite Grid
 5. Triplets With Sum Between Given Range
 6. Largest Number
+7. Max Non Negative Subarray
 
 # Code Chef
 1. Usain Bolt vs Tiger
