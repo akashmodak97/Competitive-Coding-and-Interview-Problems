@@ -64,6 +64,7 @@ This repo contains some problems from different popular coding platforms like Co
 36. Can You Read This?
 37. Piyush And Magical Park
 38. Kth Root
+39. Book Allocation Problem
 
 
 # Interview Bit
