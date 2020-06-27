@@ -86,6 +86,7 @@ This repo contains some problems from different popular coding platforms like Co
 4. Weapon Value
 5. Compress The List
 6. Cache Hit
+7. Chef And Demonetisation
 
 
 # Hacker Rank
