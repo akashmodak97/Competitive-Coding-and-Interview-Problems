@@ -70,6 +70,7 @@ This repo contains some problems from different popular coding platforms like Co
 42. Painter's Problem
 43. Winning CB Scholarship
 44. String Sort
+45. Help Rahul To Search
 
 
 # Interview Bit
