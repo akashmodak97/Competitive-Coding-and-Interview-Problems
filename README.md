@@ -68,6 +68,7 @@ This repo contains some problems from different popular coding platforms like Co
 40. Sorting In Linear Time
 41. Aggressive Cows
 42. Painter's Problem
+43. Winning CB Scholarship
 
 
 # Interview Bit
