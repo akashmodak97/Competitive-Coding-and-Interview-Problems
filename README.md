@@ -75,6 +75,7 @@ This repo contains some problems from different popular coding platforms like Co
 46. Playing With Bits
 47. Unique Number - I
 48. XOR Profit Problem
+49. Unique Number - II
 
 
 # Interview Bit
