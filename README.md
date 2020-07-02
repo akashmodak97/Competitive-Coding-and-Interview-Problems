@@ -79,6 +79,7 @@ This repo contains some problems from different popular coding platforms like Co
 49. Unique Number - II
 50. Unique Number - III
 51. Modular Exponentiation
+52. Prateek Loves Candy
 
 
 # Interview Bit
