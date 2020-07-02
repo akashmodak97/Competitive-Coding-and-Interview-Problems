@@ -1,7 +1,7 @@
 /* Hacker Blocks */
 /* Title - Modular exponentiation */
 /* Created By - Akash Modak */
-/* Date - 7/2/2020 */
+/* Date - 2/7/2020 */
 
 // Given three numbers a,b,c. Calculate (a^b)mod c.
 
