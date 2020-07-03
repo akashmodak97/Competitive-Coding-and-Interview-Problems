@@ -25,6 +25,7 @@ This repo contains some problems from different popular coding platforms like Co
 20. Remove Element
 21. Move Zeroes
 22. Binary Tree Level Order Traversal II
+23. Prison Cells After N Days
 
 
 # Hacker Blocks
