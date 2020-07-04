@@ -26,6 +26,7 @@ This repo contains some problems from different popular coding platforms like Co
 21. Move Zeroes
 22. Binary Tree Level Order Traversal II
 23. Prison Cells After N Days
+24. Ugly Number II
 
 
 # Hacker Blocks
