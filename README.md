@@ -84,6 +84,7 @@ This repo contains some problems from different popular coding platforms like Co
 51. Modular Exponentiation
 52. Prateek Loves Candy
 53. Find Last Element 
+54. All Indices Problem
 
 
 # Interview Bit
