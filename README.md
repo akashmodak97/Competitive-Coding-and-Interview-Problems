@@ -28,6 +28,7 @@ This repo contains some problems from different popular coding platforms like Co
 23. Prison Cells After N Days
 24. Ugly Number II
 25. Hamming Distance
+27. Island Perimeter
 
 
 # Hacker Blocks
