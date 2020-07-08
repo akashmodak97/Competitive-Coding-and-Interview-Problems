@@ -87,6 +87,7 @@ This repo contains some problems from different popular coding platforms like Co
 53. Find Last Element 
 54. All Indices Problem
 55. Replace PI
+56. Towers Of Hanoi
 
 
 # Interview Bit
