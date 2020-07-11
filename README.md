@@ -31,6 +31,7 @@ This repo contains some problems from different popular coding platforms like Co
 26. Island Perimeter
 27. Maximum Width Of Binary Tree
 28. Flatten a Multilevel Doubly Linked List
+29. Subsets
 
 
 # Hacker Blocks
