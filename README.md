@@ -32,6 +32,7 @@ This repo contains some problems from different popular coding platforms like Co
 27. Maximum Width Of Binary Tree
 28. Flatten a Multilevel Doubly Linked List
 29. Subsets
+30. Reverse Bits
 
 
 # Hacker Blocks
