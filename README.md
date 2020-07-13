@@ -119,6 +119,9 @@ This repo contains some problems from different popular coding platforms like Co
 12. Chef And Card Game
 13. Chef And Strings
 
+# Geeks For Geeks
+1. Smallest Divisible Number
+
 
 # Hacker Rank
 1. Mini-Max Sum
