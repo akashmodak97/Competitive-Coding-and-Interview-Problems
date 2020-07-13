@@ -112,6 +112,7 @@ This repo contains some problems from different popular coding platforms like Co
 5. Compress The List
 6. Cache Hit
 7. Chef And Demonetisation
+8. Chefina And Swaps
 
 
 # Hacker Rank
