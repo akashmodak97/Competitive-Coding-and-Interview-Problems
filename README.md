@@ -116,6 +116,7 @@ This repo contains some problems from different popular coding platforms like Co
 9. Doctor Chef
 10. Missing A Point
 11. Ada King
+12. Chef And Card Game
 
 
 # Hacker Rank
