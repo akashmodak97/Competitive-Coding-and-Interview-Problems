@@ -115,6 +115,7 @@ This repo contains some problems from different popular coding platforms like Co
 8. Chefina And Swaps
 9. Doctor Chef
 10. Missing A Point
+11. Ada King
 
 
 # Hacker Rank
