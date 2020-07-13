@@ -114,6 +114,7 @@ This repo contains some problems from different popular coding platforms like Co
 7. Chef And Demonetisation
 8. Chefina And Swaps
 9. Doctor Chef
+10. Missing A Point
 
 
 # Hacker Rank
