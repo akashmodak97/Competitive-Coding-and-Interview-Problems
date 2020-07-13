@@ -33,6 +33,7 @@ This repo contains some problems from different popular coding platforms like Co
 28. Flatten a Multilevel Doubly Linked List
 29. Subsets
 30. Reverse Bits
+31. Same Tree
 
 
 # Hacker Blocks
