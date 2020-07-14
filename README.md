@@ -96,6 +96,7 @@ This repo contains some problems from different popular coding platforms like Co
 57. Duplicate Character Formatting
 58. Remove Duplicates
 59. Subsequences
+60. Smart Keypad - I
 
 
 # Interview Bit
