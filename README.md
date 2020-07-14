@@ -100,6 +100,7 @@ This repo contains some problems from different popular coding platforms like Co
 61. Smart Keypad - Advanced
 62. Dictionary Order (Larger)
 63. Dictionary Order (Smaller)
+64. Subset Sum Easy
 
 
 # Interview Bit
