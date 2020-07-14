@@ -34,6 +34,7 @@ This repo contains some problems from different popular coding platforms like Co
 29. Subsets
 30. Reverse Bits
 31. Same Tree
+32. Angle Between Hands of a Clock
 
 
 # Hacker Blocks
