@@ -99,6 +99,7 @@ This repo contains some problems from different popular coding platforms like Co
 60. Smart Keypad - I
 61. Smart Keypad - Advanced
 62. Dictionary Order (Larger)
+63. Dictionary Order (Smaller)
 
 
 # Interview Bit
