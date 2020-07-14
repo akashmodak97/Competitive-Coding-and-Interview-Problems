@@ -95,6 +95,7 @@ This repo contains some problems from different popular coding platforms like Co
 56. Towers Of Hanoi
 57. Duplicate Character Formatting
 58. Remove Duplicates
+59. Subsequences
 
 
 # Interview Bit
