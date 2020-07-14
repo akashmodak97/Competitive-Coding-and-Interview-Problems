@@ -97,6 +97,7 @@ This repo contains some problems from different popular coding platforms like Co
 58. Remove Duplicates
 59. Subsequences
 60. Smart Keypad - I
+61. Smart Keypad - Advanced
 
 
 # Interview Bit
