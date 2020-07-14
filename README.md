@@ -105,6 +105,7 @@ This repo contains some problems from different popular coding platforms like Co
 66. Keypad Codes
 67. Mapped Strings
 68. Sorted Array
+69. Move All X At End
 
 
 # Interview Bit
