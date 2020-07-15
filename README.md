@@ -1,6 +1,6 @@
 # Competitive-Coding-and-Interview-Problems
 
-This repo contains some problems from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks, Interview Bit and Hackerrank. If you like the repo, then forget to put a ⭐
+This repo contains some problems from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks, Interview Bit and Hackerrank. If you like the repo, then forget to put a <img src="https://gifer.com/en/gifs/star" width="20">
 
 # Leet Code
 1. Maximum Sub Array
@@ -35,6 +35,7 @@ This repo contains some problems from different popular coding platforms like Co
 30. Reverse Bits
 31. Same Tree
 32. Angle Between Hands of a Clock
+33. Reverse Words In A String
 
 
 # Hacker Blocks
