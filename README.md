@@ -36,6 +36,7 @@ This repo contains some problems from different popular coding platforms like Co
 31. Same Tree
 32. Angle Between Hands of a Clock
 33. Reverse Words In A String
+34. Pow(x,n)
 
 
 # Hacker Blocks
