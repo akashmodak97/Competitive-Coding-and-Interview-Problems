@@ -38,6 +38,7 @@ This repo contains some problems from different popular coding platforms like Co
 33. Reverse Words In A String
 34. Pow(x,n)
 35. Top K Frequent Elements
+36. Course Schedule II
 
 
 # Hacker Blocks
