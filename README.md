@@ -39,6 +39,7 @@ This repo contains some problems from different popular coding platforms like Co
 34. Pow(x,n)
 35. Top K Frequent Elements
 36. Course Schedule II
+37. Add Binary
 
 
 # Hacker Blocks
