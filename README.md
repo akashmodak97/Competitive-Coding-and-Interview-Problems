@@ -138,6 +138,7 @@ This repo contains some problems from different popular coding platforms like Co
 11. Ada King
 12. Chef And Card Game
 13. Chef And Strings
+14. Even-tual Reduction
 
 # Geeks For Geeks
 1. Smallest Divisible Number
