@@ -144,6 +144,7 @@ This repo contains some problems from different popular coding platforms like Co
 # Geeks For Geeks
 1. Smallest Divisible Number
 2. Addition Under Modulo
+3. Digits In Factorial
 
 
 # Hacker Rank
