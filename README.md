@@ -42,6 +42,7 @@ This repo contains some problems from different popular coding platforms like Co
 37. Add Binary
 38. Remove Linked List Elements
 39. Words Search
+40. Binary Tree Zigzag Level Order Traversal
 
 
 # Hacker Blocks
