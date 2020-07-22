@@ -116,7 +116,7 @@ This repo contains some problems from different popular coding platforms like Co
 68. Sorted Array
 69. Move All X At End
 70. Tricky Permutations
-
+71. Generate Parentheses
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
