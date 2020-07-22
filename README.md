@@ -115,6 +115,7 @@ This repo contains some problems from different popular coding platforms like Co
 67. Mapped Strings
 68. Sorted Array
 69. Move All X At End
+70. Tricky Permutations
 
 
 # Interview Bit
