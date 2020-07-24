@@ -122,6 +122,7 @@ This repo contains some problems from different popular coding platforms like Co
 72. Count N Queen
 73. Rat In A Maze
 74. Sudoku Solver
+75. Linked List K Append
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
