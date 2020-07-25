@@ -45,6 +45,7 @@ This repo contains some problems from different popular coding platforms like Co
 40. Binary Tree Zigzag Level Order Traversal
 41. Single Number III
 42. All Paths From Source to Target
+43. Find Minimum In Rotated Sorted Array
 
 
 # Hacker Blocks
