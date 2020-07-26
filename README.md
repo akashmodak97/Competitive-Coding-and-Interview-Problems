@@ -48,6 +48,7 @@ This repo contains some problems from different popular coding platforms like Co
 43. Find Minimum In Rotated Sorted Array
 44. Find Minimum In Rotated Sorted Array II
 45. Single Number
+46. Add Digits
 
 
 # Hacker Blocks
