@@ -49,6 +49,7 @@ This repo contains some problems from different popular coding platforms like Co
 44. Find Minimum In Rotated Sorted Array II
 45. Single Number
 46. Add Digits
+47. Construct Binary Tree from Inorder and Postorder Traversal
 
 
 # Hacker Blocks
