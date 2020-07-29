@@ -50,6 +50,7 @@ This repo contains some problems from different popular coding platforms like Co
 45. Single Number
 46. Add Digits
 47. Construct Binary Tree from Inorder and Postorder Traversal
+48. Best Time to Buy and Sell Stock with Cooldown
 
 
 # Hacker Blocks
