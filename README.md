@@ -53,6 +53,7 @@ This repo contains some problems from different popular coding platforms like Co
 48. Best Time to Buy and Sell Stock with Cooldown
 49. Word Break II
 50. Climbing Stairs
+51. Detect Capital
 
 
 # Hacker Blocks
