@@ -132,6 +132,8 @@ This repo contains some problems from different popular coding platforms like Co
 73. Rat In A Maze
 74. Sudoku Solver
 75. Linked List K Append
+76. Merge Sorted Linked List
+77. Linked List K Reverse
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
