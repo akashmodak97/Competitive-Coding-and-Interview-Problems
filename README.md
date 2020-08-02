@@ -54,6 +54,7 @@ This repo contains some problems from different popular coding platforms like Co
 49. Word Break II
 50. Climbing Stairs
 51. Detect Capital
+52. Design Hashset
 
 
 # Hacker Blocks
