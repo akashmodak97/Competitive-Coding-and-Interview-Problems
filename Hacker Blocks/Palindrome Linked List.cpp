@@ -1,4 +1,4 @@
-/* Leet Code */
+/* Hacker Blocks */
 /* Title - Palindrome Linked List */
 /* Created By - Akash Modak */
 /* Date - 2/8/2020 */
