@@ -134,6 +134,7 @@ This repo contains some problems from different popular coding platforms like Co
 75. Linked List K Append
 76. Merge Sorted Linked List
 77. Linked List K Reverse
+78. Even After Odd LL
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
