@@ -139,6 +139,7 @@ This repo contains some problems from different popular coding platforms like Co
 80. Cycle Detection And Removal In A Linked List
 81. Intersection Point Of Two Linked List
 82. Circular Linked List
+83. Palindrome Linked List
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
