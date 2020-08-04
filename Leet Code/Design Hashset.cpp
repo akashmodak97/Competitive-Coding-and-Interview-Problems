@@ -1,5 +1,5 @@
 /* Leet Code */
-/* Title - Desihn Hashset */
+/* Title - Design Hashset */
 /* Created By - Akash Modak */
 /* Date - 3/8/2020 */
 
