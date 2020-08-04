@@ -55,6 +55,7 @@ This repo contains some problems from different popular coding platforms like Co
 50. Climbing Stairs
 51. Detect Capital
 52. Design Hashset
+53. Power Of Four
 
 
 # Hacker Blocks
