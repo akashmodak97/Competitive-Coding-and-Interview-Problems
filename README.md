@@ -142,6 +142,7 @@ This repo contains some problems from different popular coding platforms like Co
 81. Intersection Point Of Two Linked List
 82. Circular Linked List
 83. Palindrome Linked List
+84. Find The Greater Element
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
