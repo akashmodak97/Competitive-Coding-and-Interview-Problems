@@ -56,6 +56,7 @@ This repo contains some problems from different popular coding platforms like Co
 51. Detect Capital
 52. Design Hashset
 53. Power Of Four
+54. Find All Duplicates in an Array
 
 
 # Hacker Blocks
