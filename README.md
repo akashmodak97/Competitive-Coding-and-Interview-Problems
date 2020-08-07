@@ -144,6 +144,7 @@ This repo contains some problems from different popular coding platforms like Co
 82. Circular Linked List
 83. Palindrome Linked List
 84. Find The Greater Element
+85. Prateek Sir and Coding
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
