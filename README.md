@@ -57,6 +57,7 @@ This repo contains some problems from different popular coding platforms like Co
 52. Design Hashset
 53. Power Of Four
 54. Find All Duplicates in an Array
+55. Path Sum III
 
 
 # Hacker Blocks
