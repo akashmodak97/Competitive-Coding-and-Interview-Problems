@@ -60,6 +60,7 @@ This repo contains some problems from different popular coding platforms like Co
 55. Path Sum III
 56. Excel Sheet Column Number
 57. Iterator for Combination
+58. Longest Palindrome
 
 
 # Hacker Blocks
