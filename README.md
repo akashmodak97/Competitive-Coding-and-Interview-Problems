@@ -150,6 +150,7 @@ This repo contains some problems from different popular coding platforms like Co
 84. Find The Greater Element
 85. Prateek Sir and Coding
 86. Balanced Parenthesis
+87. Stock Span
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
