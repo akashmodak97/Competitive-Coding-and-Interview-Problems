@@ -180,6 +180,7 @@ This repo contains some problems from different popular coding platforms like Co
 16. Chef Wars - Return of the Jedi
 17. Chef and Linear Chess
 18. Another Card Game Problem
+19. Smallest KMP
 
 # Geeks For Geeks
 1. Smallest Divisible Number
