@@ -177,6 +177,7 @@ This repo contains some problems from different popular coding platforms like Co
 13. Chef And Strings
 14. Even-tual Reduction
 15. What Is This, a Crossover Episode
+16. Chef Wars - Return of the Jedi
 
 # Geeks For Geeks
 1. Smallest Divisible Number
