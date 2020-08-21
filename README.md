@@ -62,6 +62,7 @@ This repo contains some problems from different popular coding platforms like Co
 57. Iterator for Combination
 58. Longest Palindrome
 59. Sort Array By Parity
+60. Find The Duplicate Number
 
 
 # Hacker Blocks
