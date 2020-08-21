@@ -61,6 +61,7 @@ This repo contains some problems from different popular coding platforms like Co
 56. Excel Sheet Column Number
 57. Iterator for Combination
 58. Longest Palindrome
+59. Sort Array By Parity
 
 
 # Hacker Blocks
