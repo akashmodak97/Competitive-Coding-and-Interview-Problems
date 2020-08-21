@@ -64,6 +64,7 @@ This repo contains some problems from different popular coding platforms like Co
 59. Sort Array By Parity
 60. Find The Duplicate Number
 61. Missing Number
+62. Remove Duplicates From A Sorted Array
 
 
 # Hacker Blocks
