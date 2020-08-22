@@ -201,3 +201,4 @@ This repo contains some problems from different popular coding platforms like Co
 4. Sock Merchant
 5. Counting Valley
 6. Jumping On Clouds
+7. Ransom Note
