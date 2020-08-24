@@ -186,6 +186,7 @@ This repo contains some problems from different popular coding platforms like Co
 18. Another Card Game Problem
 19. Smallest KMP
 20. Chef and Wedding Arrangements
+21. Chef And Work
 
 # Geeks For Geeks
 1. Smallest Divisible Number
