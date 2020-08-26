@@ -67,6 +67,7 @@ This repo contains some problems from different popular coding platforms like Co
 62. Remove Duplicates From A Sorted Array
 63. Fizz Buzz
 64. Rotate Array
+65. Contains Duplicate
 
 
 # Hacker Blocks
