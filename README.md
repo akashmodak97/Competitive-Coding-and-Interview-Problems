@@ -159,6 +159,7 @@ This repo contains some problems from different popular coding platforms like Co
 86. Balanced Parenthesis
 87. Stock Span
 88. I Am Very Busy Man
+89. Redundant Parentheses
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
