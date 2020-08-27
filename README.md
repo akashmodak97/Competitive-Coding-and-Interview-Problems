@@ -167,6 +167,7 @@ This repo contains some problems from different popular coding platforms like Co
 94. Sum At Level K
 95. Print BST keys in the Given Range
 96. Tree Bottom View
+97. Is Balanced Binary Tree
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
