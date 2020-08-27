@@ -162,6 +162,7 @@ This repo contains some problems from different popular coding platforms like Co
 89. Redundant Parentheses
 90. Queue Using Stack
 91. Strongest Fighter
+92. Importance Of Time
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
