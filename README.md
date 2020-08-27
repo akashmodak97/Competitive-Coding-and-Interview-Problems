@@ -163,6 +163,7 @@ This repo contains some problems from different popular coding platforms like Co
 90. Queue Using Stack
 91. Strongest Fighter
 92. Importance Of Time
+93. Build BST
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
