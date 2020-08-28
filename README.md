@@ -207,6 +207,11 @@ This repo contains some problems from different popular coding platforms like Co
 3. Digits In Factorial
 4. Exactly 3 Divisors
 
+# SPOJ
+1. Aggressive Cows
+2. I Am Very Busy Man
+3. Biased Standings
+
 
 # Hacker Rank
 1. Mini-Max Sum
