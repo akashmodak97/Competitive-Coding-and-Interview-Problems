@@ -1,7 +1,7 @@
 /* Leet Code */
 /* Title - Move Zeroes */
 /* Created By - Akash Modak */
-/* Date - 29/06/2020 */
+/* Date - 27/08/2020 */
 
 // Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
@@ -17,24 +17,20 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int n = nums.size();
-        int i=0,j=0;
-        while(j<n){
-            if(nums[j]==0)
+        int count = 0;
+        int i,j=0;
+        if(nums.empty())
+            return;
+        for(i=0;i<nums.size();i++){
+            if(nums[i]!=0){
+                nums[j] = nums[i];
                 j++;
-            else if(nums[i]==0){
-                nums[i]=nums[j];
-                if(i!=j){
-                    nums[j]=0;
-                    i++;
-                }
-                j++;
+            }else{
+                count++;
             }
-            else{
-                j++;
-                i++;
-            }
-
+        }
+        for(i=nums.size()-count;i<nums.size();i++){
+            nums[i]=0;
         }
     }
 };
