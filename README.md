@@ -68,6 +68,7 @@ This repo contains some problems from different popular coding platforms like Co
 63. Fizz Buzz
 64. Rotate Array
 65. Contains Duplicate
+66. Move Zeroes
 
 
 # Hacker Blocks
