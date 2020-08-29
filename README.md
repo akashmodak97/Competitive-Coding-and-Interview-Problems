@@ -213,6 +213,7 @@ This repo contains some problems from different popular coding platforms like Co
 2. I Am Very Busy Man
 3. Biased Standings
 4. Load Balancing
+5. Defense Of A Kingdom
 
 
 # Hacker Rank
