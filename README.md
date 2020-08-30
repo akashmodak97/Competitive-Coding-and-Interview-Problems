@@ -202,6 +202,7 @@ This repo contains some problems from different popular coding platforms like Co
 20. Chef and Wedding Arrangements
 21. Chef And Work
 22. Chopsticks
+23. Mode Of Frequencies
 
 # Geeks For Geeks
 1. Smallest Divisible Number
