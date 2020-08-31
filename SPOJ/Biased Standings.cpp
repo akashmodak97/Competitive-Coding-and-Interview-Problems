@@ -1,5 +1,5 @@
 /* SPOJ */
-/* Title - Find Sum At Level K - Trees */
+/* Title - Biased Standings */
 /* Created By - Akash Modak */
 /* Date - 28/08/2020 */
 
