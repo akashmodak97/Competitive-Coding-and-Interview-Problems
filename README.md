@@ -69,6 +69,7 @@ This repo contains some problems from different popular coding platforms like Co
 64. Rotate Array
 65. Contains Duplicate
 66. Move Zeroes
+67. Delete Node From BST
 
 
 # Hacker Blocks
