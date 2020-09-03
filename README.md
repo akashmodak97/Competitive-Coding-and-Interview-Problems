@@ -217,6 +217,7 @@ This repo contains some problems from different popular coding platforms like Co
 3. Biased Standings
 4. Load Balancing
 5. Defense Of A Kingdom
+6. Transform The Expression
 
 
 # Hacker Rank
