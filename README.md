@@ -210,6 +210,7 @@ This repo contains some problems from different popular coding platforms like Co
 2. Addition Under Modulo
 3. Digits In Factorial
 4. Exactly 3 Divisors
+5. Remove duplicate elements from sorted Array
 
 # SPOJ
 1. Aggressive Cows
