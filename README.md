@@ -211,6 +211,7 @@ This repo contains some problems from different popular coding platforms like Co
 3. Digits In Factorial
 4. Exactly 3 Divisors
 5. Remove duplicate elements from sorted Array
+6. Reverse array in groups
 
 # SPOJ
 1. Aggressive Cows
