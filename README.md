@@ -173,6 +173,7 @@ This repo contains some problems from different popular coding platforms like Co
 96. Tree Bottom View
 97. Is Balanced Binary Tree
 98. Level Order (ZigZag)
+99. Create tree from Inorder and Preorder
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
