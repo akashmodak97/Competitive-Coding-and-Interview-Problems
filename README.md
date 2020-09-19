@@ -211,6 +211,7 @@ This repo contains some problems from different popular coding platforms like Co
 23. Mode Of Frequencies
 24. A Problem On Sticks
 25. Ada Matrix
+26. Chefina and Swap
 
 # Geeks For Geeks
 1. Smallest Divisible Number
