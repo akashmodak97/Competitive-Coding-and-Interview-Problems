@@ -209,6 +209,7 @@ This repo contains some problems from different popular coding platforms like Co
 21. Chef And Work
 22. Chopsticks
 23. Mode Of Frequencies
+24. A Problem On Sticks
 
 # Geeks For Geeks
 1. Smallest Divisible Number
