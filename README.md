@@ -72,6 +72,7 @@ This repo contains some problems from different popular coding platforms like Co
 67. Delete Node From BST
 68. All Elements in Two Binary Search Trees
 69. Valid Parentheses
+70. Valid Anagrams
 
 
 # Hacker Blocks
