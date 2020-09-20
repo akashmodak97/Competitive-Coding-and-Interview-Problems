@@ -74,6 +74,7 @@ This repo contains some problems from different popular coding platforms like Co
 69. Valid Parentheses
 70. Valid Anagrams
 71. Reverse String
+72. First Unique Character in a String
 
 
 # Hacker Blocks
