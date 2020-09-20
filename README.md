@@ -75,6 +75,7 @@ This repo contains some problems from different popular coding platforms like Co
 70. Valid Anagrams
 71. Reverse String
 72. First Unique Character in a String
+73. Find First and Last Position of Element in Sorted Array
 
 
 # Hacker Blocks
