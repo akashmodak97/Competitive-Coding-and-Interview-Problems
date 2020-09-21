@@ -84,6 +84,7 @@ This repo contains some problems from different popular coding platforms like Co
 79. Binary Tree Preorder Traversal
 80. N-ary Tree Postorder Traversal
 81. Binary Tree Postorder Traversal
+82. Implement Queue using Stacks
 
 
 # Hacker Blocks
