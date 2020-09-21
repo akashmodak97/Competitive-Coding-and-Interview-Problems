@@ -81,6 +81,7 @@ This repo contains some problems from different popular coding platforms like Co
 76. Binary Tree Level Order Traversal
 77. N-ary Tree Level Order Traversal
 78. N-ary Tree Preorder Traversal
+79. Binary Tree Preorder Traversal
 
 
 # Hacker Blocks
