@@ -91,6 +91,7 @@ This repo contains some problems from different popular coding platforms like Co
 86. Insert Interval
 87. Minimum Window Substring
 88. Minimum Size Subarray Sum
+89. Sliding Window Maximum
 
 
 # Hacker Blocks
