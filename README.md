@@ -88,6 +88,7 @@ This repo contains some problems from different popular coding platforms like Co
 83. Implement Stack using Queues
 84. Remove Nth Node From End of List
 85. Convert Sorted Array to Binary Search Tree
+86. Insert Interval
 
 
 # Hacker Blocks
