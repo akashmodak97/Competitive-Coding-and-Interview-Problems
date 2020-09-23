@@ -94,6 +94,7 @@ This repo contains some problems from different popular coding platforms like Co
 89. Sliding Window Maximum
 90. Permutation in String
 91. Find All Anagrams in a String
+92. Unique Paths
 
 
 # Hacker Blocks
