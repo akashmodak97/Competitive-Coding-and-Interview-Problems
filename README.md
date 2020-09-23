@@ -97,6 +97,7 @@ This repo contains some problems from different popular coding platforms like Co
 92. Unique Paths
 93. Unique Paths II
 94. Minimum Path Sum
+95. Maximum Depth of Binary Tree
 
 
 # Hacker Blocks
