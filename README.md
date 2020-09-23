@@ -99,6 +99,7 @@ This repo contains some problems from different popular coding platforms like Co
 94. Minimum Path Sum
 95. Maximum Depth of Binary Tree
 96. Remove Duplicates from Sorted Array II
+97. Invert Binary Tree
 
 
 # Hacker Blocks
