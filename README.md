@@ -96,6 +96,7 @@ This repo contains some problems from different popular coding platforms like Co
 91. Find All Anagrams in a String
 92. Unique Paths
 93. Unique Paths II
+94. Minimum Path Sum
 
 
 # Hacker Blocks
