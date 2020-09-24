@@ -105,6 +105,7 @@ This repo contains some problems from different popular coding platforms like Co
 100. Best Time to Buy and Sell Stock
 101. Merge k Sorted Lists
 102. Merge 2 Sorted Lists
+103. Longest Repeating Character Replacement
 
 
 # Hacker Blocks
