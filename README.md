@@ -100,6 +100,7 @@ This repo contains some problems from different popular coding platforms like Co
 95. Maximum Depth of Binary Tree
 96. Remove Duplicates from Sorted Array II
 97. Invert Binary Tree
+98. Longest Increasing Subsequence
 
 
 # Hacker Blocks
