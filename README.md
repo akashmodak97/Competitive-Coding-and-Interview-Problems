@@ -106,6 +106,7 @@ This repo contains some problems from different popular coding platforms like Co
 101. Merge k Sorted Lists
 102. Merge 2 Sorted Lists
 103. Longest Repeating Character Replacement
+104. Max Consecutive Ones III
 
 
 # Hacker Blocks
