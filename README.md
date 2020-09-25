@@ -107,6 +107,8 @@ This repo contains some problems from different popular coding platforms like Co
 102. Merge 2 Sorted Lists
 103. Longest Repeating Character Replacement
 104. Max Consecutive Ones III
+105. Maximum Non Negative Product in a Matrix
+106. Number of Good Ways to Split a String
 
 
 # Hacker Blocks
