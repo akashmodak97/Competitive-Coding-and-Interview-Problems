@@ -221,6 +221,7 @@ This repo contains some problems from different popular coding platforms like Co
 5. Triplets With Sum Between Given Range
 6. Largest Number
 7. Max Non Negative Subarray
+8. Longest Common Prefix
 
 # Code Chef
 1. Usain Bolt vs Tiger
