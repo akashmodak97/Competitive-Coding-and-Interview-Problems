@@ -109,6 +109,7 @@ This repo contains some problems from different popular coding platforms like Co
 104. Max Consecutive Ones III
 105. Maximum Non Negative Product in a Matrix
 106. Number of Good Ways to Split a String
+107. Generate Parentheses
 
 
 # Hacker Blocks
