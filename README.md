@@ -114,6 +114,7 @@ This repo contains some problems from different popular coding platforms like Co
 109. Combination Sum
 110. Reverse Nodes in k-Group
 111. Swap Nodes in Pairs
+112. Reverse Linked List
 
 
 # Hacker Blocks
