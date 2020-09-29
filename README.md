@@ -118,6 +118,7 @@ This repo contains some problems from different popular coding platforms like Co
 113. Recover Binary Search Tree
 114. Count Good Nodes in Binary Tree
 115. Binary Tree Right Side View
+116. Construct Binary Tree from Preorder and Inorder Traversal
 
 
 # Hacker Blocks
