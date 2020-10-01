@@ -262,6 +262,7 @@ This repo contains some problems from different popular coding platforms like Co
 24. A Problem On Sticks
 25. Ada Matrix
 26. Chefina and Swap
+27. Isolation Centers
 
 # Geeks For Geeks
 1. Smallest Divisible Number
