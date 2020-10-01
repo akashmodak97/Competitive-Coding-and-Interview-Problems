@@ -123,6 +123,7 @@ This repo contains some problems from different popular coding platforms like Co
 118. Counting Bits
 119. Search in Rotated Sorted Array
 120. Number of Recent Calls
+121. Kth Smallest Element in a BST
 
 
 # Hacker Blocks
