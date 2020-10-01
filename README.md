@@ -121,6 +121,7 @@ This repo contains some problems from different popular coding platforms like Co
 116. Construct Binary Tree from Preorder and Inorder Traversal
 117. Element Appearing More Than 25% In Sorted Array
 118. Counting Bits
+119. Search in Rotated Sorted Array
 
 
 # Hacker Blocks
