@@ -291,3 +291,8 @@ This repo contains some problems from different popular coding platforms like Co
 6. Jumping On Clouds
 7. Ransom Note
 8. Two Strings
+
+# Contribution
+Want to contribute to this repo?
+-- The code must be written in C++
+-- The file must contain the Question with the Solution (Check one file before making a pull request).
