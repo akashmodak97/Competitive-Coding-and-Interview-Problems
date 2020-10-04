@@ -301,4 +301,6 @@ Want to contribute to this repo?
 
 - The code must be written in C++
 
-- The file must contain the Question along with the Solution (Check one file before making a pull request).
+- The file must contain the Question along with the Solution (Check one file before making a pull request)
+
+- Update README accordingly
