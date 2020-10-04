@@ -1,5 +1,5 @@
 /* SPOJ */
-/* Title - Arranging Amplifiers */
+/* Title - The Last Digit */
 /* Created By - Kushagra Saxena */
 /* Date - 04/10/2020 */
 
