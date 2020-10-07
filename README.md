@@ -126,7 +126,8 @@ This repo contains some problems from different popular coding platforms like Co
 121. Kth Smallest Element in a BST
 122. Valid Palindrome
 123. Insert into a Binary Search Tree
-124. Linked List Cycle II
+124. Linked List Cycle 
+125. Linked List Cycle II
 
 
 # Hacker Blocks
