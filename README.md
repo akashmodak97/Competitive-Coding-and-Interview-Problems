@@ -287,6 +287,8 @@ This repo contains some problems from different popular coding platforms like Co
 5. Defense Of A Kingdom
 6. Transform The Expression
 7. TEST - Life, the Universe, and Everything
+8. The Last Digit
+9. Arranging Amplifiers
 
 
 # Hacker Rank
