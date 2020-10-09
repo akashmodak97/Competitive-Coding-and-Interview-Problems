@@ -280,6 +280,7 @@ This repo contains some problems from different popular coding platforms like Co
 6. Reverse array in groups
 7. Height of Binary Tree
 8. Unique Numbers
+9. Delete without head pointer
 
 # SPOJ
 1. Aggressive Cows
