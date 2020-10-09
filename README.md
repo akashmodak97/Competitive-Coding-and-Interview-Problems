@@ -278,6 +278,7 @@ This repo contains some problems from different popular coding platforms like Co
 4. Exactly 3 Divisors
 5. Remove duplicate elements from sorted Array
 6. Reverse array in groups
+7. Height of Binary Tree
 
 # SPOJ
 1. Aggressive Cows
