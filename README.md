@@ -281,6 +281,7 @@ This repo contains some problems from different popular coding platforms like Co
 7. Height of Binary Tree
 8. Unique Numbers
 9. Delete without head pointer
+10. Count Leaves in Binary Tree
 
 # SPOJ
 1. Aggressive Cows
