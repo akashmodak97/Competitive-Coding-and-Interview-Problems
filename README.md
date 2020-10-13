@@ -284,6 +284,7 @@ This repo contains some problems from different popular coding platforms like Co
 9. Delete without head pointer
 10. Count Leaves in Binary Tree
 11. Minimum number to form the sum even
+12. Count the Zeros
 
 # SPOJ
 1. Aggressive Cows
