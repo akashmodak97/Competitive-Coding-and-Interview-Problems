@@ -283,6 +283,7 @@ This repo contains some problems from different popular coding platforms like Co
 8. Unique Numbers
 9. Delete without head pointer
 10. Count Leaves in Binary Tree
+11. Minimum number to form the sum even
 
 # SPOJ
 1. Aggressive Cows
