@@ -129,6 +129,7 @@ This repo contains some problems from different popular coding platforms like Co
 124. Linked List Cycle 
 125. Linked List Cycle II
 126. Odd Even Linked List
+127. Number of 1 Bits
 
 
 # Hacker Blocks
