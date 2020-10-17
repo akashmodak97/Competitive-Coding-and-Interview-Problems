@@ -274,6 +274,7 @@ This repo contains some problems from different popular coding platforms like Co
 27. Isolation Centres
 28. Bowling Strategy
 29. Chef and Easy Queries
+30. Covid Run
 
 # Geeks For Geeks
 1. Smallest Divisible Number
