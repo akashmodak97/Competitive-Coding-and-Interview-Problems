@@ -273,6 +273,7 @@ This repo contains some problems from different popular coding platforms like Co
 26. Chefina and Swap
 27. Isolation Centres
 28. Bowling Strategy
+29. Chef and Easy Queries
 
 # Geeks For Geeks
 1. Smallest Divisible Number
