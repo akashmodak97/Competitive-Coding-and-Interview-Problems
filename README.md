@@ -239,6 +239,7 @@ This repo contains some problems from different popular coding platforms like Co
 102. Tree Left View
 103. Tree Right View
 104. Largest BST in a Binary Tree
+105. Recover BST
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
