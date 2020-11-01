@@ -132,6 +132,7 @@ This repo contains some problems from different popular coding platforms like Co
 127. Number of 1 Bits
 128. Power of Two
 129. Bitwise AND of Numbers Range
+130. Convert Binary Number in a Linked List to Integer
 
 
 # Hacker Blocks
