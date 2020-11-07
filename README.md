@@ -301,6 +301,7 @@ This repo contains some problems from different popular coding platforms like Co
 13. Reverse a String
 14. Sum of numbers in string
 15. Red OR Green
+16. Closing bracket index
 
 # SPOJ
 1. Aggressive Cows
