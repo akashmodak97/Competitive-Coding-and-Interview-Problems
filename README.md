@@ -133,6 +133,7 @@ This repo contains some problems from different popular coding platforms like Co
 128. Power of Two
 129. Bitwise AND of Numbers Range
 130. Convert Binary Number in a Linked List to Integer
+131. Add Two Numbers II
 
 
 # Hacker Blocks
