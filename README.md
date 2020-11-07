@@ -299,6 +299,7 @@ This repo contains some problems from different popular coding platforms like Co
 11. Minimum number to form the sum even
 12. Count the Zeros
 13. Reverse a String
+14. Sum of numbers in string
 
 # SPOJ
 1. Aggressive Cows
