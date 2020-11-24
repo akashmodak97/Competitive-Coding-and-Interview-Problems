@@ -305,6 +305,7 @@ This repo contains some problems from different popular coding platforms like Co
 15. Red OR Green
 16. Closing bracket index
 17. Case-specific Sorting of Strings
+18. Min Heap Implementation
 
 # SPOJ
 1. Aggressive Cows
