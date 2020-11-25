@@ -135,6 +135,7 @@ This repo contains some problems from different popular coding platforms like Co
 130. Convert Binary Number in a Linked List to Integer
 131. Add Two Numbers II
 132. Implement strStr()
+133. Subarray Sum Equals K
 
 
 # Hacker Blocks
