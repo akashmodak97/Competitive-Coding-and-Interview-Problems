@@ -293,6 +293,7 @@ This repo contains some problems from different popular coding platforms like Co
 32. Replace for X
 33. Ada and Dishes
 34. Restore Sequence
+35. Iron, Magnet and Wall
 
 # Geeks For Geeks
 1. Smallest Divisible Number
