@@ -292,6 +292,7 @@ This repo contains some problems from different popular coding platforms like Co
 31. Positive AND
 32. Replace for X
 33. Ada and Dishes
+34. Restore Sequence
 
 # Geeks For Geeks
 1. Smallest Divisible Number
