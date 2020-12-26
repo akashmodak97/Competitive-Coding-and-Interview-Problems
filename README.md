@@ -290,6 +290,7 @@ This repo contains some problems from different popular coding platforms like Co
 29. Chef and Easy Queries
 30. Covid Run
 31. Positive AND
+32. Replace for X
 
 # Geeks For Geeks
 1. Smallest Divisible Number
