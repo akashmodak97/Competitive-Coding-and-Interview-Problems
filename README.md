@@ -291,6 +291,7 @@ This repo contains some problems from different popular coding platforms like Co
 30. Covid Run
 31. Positive AND
 32. Replace for X
+33. Ada and Dishes
 
 # Geeks For Geeks
 1. Smallest Divisible Number
