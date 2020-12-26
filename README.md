@@ -294,6 +294,7 @@ This repo contains some problems from different popular coding platforms like Co
 33. Ada and Dishes
 34. Restore Sequence
 35. Iron, Magnet and Wall
+36. Vaccine Production
 
 # Geeks For Geeks
 1. Smallest Divisible Number
