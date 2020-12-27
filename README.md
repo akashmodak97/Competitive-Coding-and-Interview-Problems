@@ -139,6 +139,7 @@ This repo contains some problems from different popular coding platforms like Co
 134. Subarray Product Less Than K
 135. Summary Ranges
 136. Count Primes
+137. Happy Number
 
 
 # Hacker Blocks
