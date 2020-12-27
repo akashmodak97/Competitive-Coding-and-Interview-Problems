@@ -138,6 +138,7 @@ This repo contains some problems from different popular coding platforms like Co
 133. Subarray Sum Equals K
 134. Subarray Product Less Than K
 135. Summary Ranges
+136. Count Primes
 
 
 # Hacker Blocks
