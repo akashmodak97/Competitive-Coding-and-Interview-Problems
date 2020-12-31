@@ -142,6 +142,7 @@ This repo contains some problems from different popular coding platforms like Co
 137. Happy Number
 138. Contains Duplicate II
 139. Isomorphic Strings
+140. Word Pattern
 
 
 # Hacker Blocks
