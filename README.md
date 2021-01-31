@@ -252,6 +252,7 @@ This repo contains some problems from different popular coding platforms like Co
 104. Largest BST in a Binary Tree
 105. Recover BST
 106. Hostel Visit
+107. Merge K sorted Arrays
 
 # Interview Bit
 1. Max Sum Contiguous Subarray
