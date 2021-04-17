@@ -143,6 +143,7 @@ This repo contains some problems from different popular coding platforms like Co
 138. Contains Duplicate II
 139. Isomorphic Strings
 140. Word Pattern
+141. Length of Last Word
 
 
 # Hacker Blocks
