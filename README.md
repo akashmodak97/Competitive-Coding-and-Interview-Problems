@@ -144,6 +144,7 @@ This repo contains some problems from different popular coding platforms like Co
 139. Isomorphic Strings
 140. Word Pattern
 141. Length of Last Word
+142. Majority Element
 
 
 # Hacker Blocks
