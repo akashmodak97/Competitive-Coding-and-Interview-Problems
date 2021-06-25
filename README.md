@@ -145,6 +145,7 @@ This repo contains some problems from different popular coding platforms like Co
 140. Word Pattern
 141. Length of Last Word
 142. Majority Element
+143. Majority Element II
 
 
 # Hacker Blocks
