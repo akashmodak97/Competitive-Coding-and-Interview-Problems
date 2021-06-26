@@ -146,6 +146,7 @@ This repo contains some problems from different popular coding platforms like Co
 141. Length of Last Word
 142. Majority Element
 143. Majority Element II
+144. Two Sum II - Input array is sorted
 
 
 # Hacker Blocks
