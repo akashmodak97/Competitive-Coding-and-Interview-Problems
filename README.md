@@ -148,6 +148,7 @@ This repo contains some problems from different popular coding platforms like Co
 143. Majority Element II
 144. Two Sum II - Input array is sorted
 145. Find Peak Element
+146. Gray Code
 
 
 # Hacker Blocks
