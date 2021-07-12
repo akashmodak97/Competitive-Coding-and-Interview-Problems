@@ -311,6 +311,7 @@ This repo contains some problems from different popular coding platforms like Co
 38. Encoded String
 39. Maximum Production
 40. Relativity
+41. XxOoRr
 
 # Geeks For Geeks
 1. Smallest Divisible Number
