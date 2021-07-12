@@ -309,6 +309,7 @@ This repo contains some problems from different popular coding platforms like Co
 36. Vaccine Production
 37. Chef and Division 3
 38. Encoded String
+39. Maximum Production
 
 # Geeks For Geeks
 1. Smallest Divisible Number
