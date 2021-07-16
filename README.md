@@ -149,6 +149,7 @@ This repo contains some problems from different popular coding platforms like Co
 144. Two Sum II - Input array is sorted
 145. Find Peak Element
 146. Gray Code
+147. First Missing Positive
 
 
 # Hacker Blocks
