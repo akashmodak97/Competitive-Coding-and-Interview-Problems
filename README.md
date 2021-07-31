@@ -368,3 +368,26 @@ Want to contribute to this repo?
 - The file must contain the Question along with the Solution (Check one file before making a pull request)
 
 - Update README accordingly
+
+<h3 align=center> ✨ Contributors </h2>
+<p align=center>Lets take a moment for those lovely contributors ❤️</p>
+<table align=center>
+	<tr>
+		 <td>
+  <a href="https://github.com/akashmodak97/Competitive-Coding-and-Interview-Problems/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akashmodak97/Competitive-Coding-and-Interview-Problems" />
+  </a>
+		</td>
+	</tr>
+</table>
+
+<h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
+  <a href="https://github.com/akashmodak97"><img src="https://avatars.githubusercontent.com/u/52149475?v=4" width=150px height=150px /></a> 
+<h4 align=center> Have any suggestion? Lets connect on - </h4>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akash-modak-04a014178/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/akashmodak97"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akashmodak97@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akash.modak_/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
