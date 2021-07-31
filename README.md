@@ -2,6 +2,10 @@
 
 This repo contains some problems from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks, Interview Bit and Hackerrank. If you like this repo, then don't forget to put a star <b>✰</b>
 
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=008BDC&size=30&width=950&height=70&lines=Welcome-to-Competitive-Coding-and-Interview-Problems"/>
+</p>
+
 # Leet Code
 1. Maximum Sub Array
 2. Maximum Sum Circular Sub Array
