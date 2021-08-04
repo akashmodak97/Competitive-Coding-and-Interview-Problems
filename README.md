@@ -154,6 +154,7 @@ This repo contains some problems from different popular coding platforms like Co
 145. Find Peak Element
 146. Gray Code
 147. First Missing Positive
+148. Remove Duplicates from Sorted List
 
 
 # Hacker Blocks
