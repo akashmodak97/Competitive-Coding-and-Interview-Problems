@@ -159,6 +159,7 @@ This repo contains some problems from different popular coding platforms like Co
 150. Concatenation of Array
 151. Sum of All Odd Length Subarrays
 152. Set Matrix Zeroes
+153. Delete Node in a Linked List
 
 
 # Hacker Blocks
