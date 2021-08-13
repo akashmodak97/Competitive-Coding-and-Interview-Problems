@@ -162,6 +162,7 @@ This repo contains some problems from different popular coding platforms like Co
 153. Delete Node in a Linked List
 154. Kth Largest Element in an Array
 155. Longest Mountain in Array
+156. Valid Mountain Array
 
 
 # Hacker Blocks
