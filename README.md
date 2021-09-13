@@ -167,6 +167,7 @@ This repo contains some problems from different popular coding platforms like Co
 158. Rotate List
 159. Maximum Number of Balloons
 160. Maximum Absolute Sum of Any Subarray
+161. Sort Characters By Frequency
 
 
 # Hacker Blocks
