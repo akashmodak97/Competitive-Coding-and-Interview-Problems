@@ -170,6 +170,7 @@ This repo contains some problems from different popular coding platforms like Co
 161. Sort Characters By Frequency
 162. Ransom Note
 163. Balanced Binary Tree
+164. Populating Next Right Pointers in Each Node
 
 
 # Hacker Blocks
