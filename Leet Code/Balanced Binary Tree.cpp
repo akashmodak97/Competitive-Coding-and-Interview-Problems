@@ -1,5 +1,5 @@
 /* Leet Code */
-/* Title - Split Linked List in Parts */
+/* Title - Balanced Binary Tree */
 /* Created By - Akash Modak */
 /* Date - 14/09/2021 */
 
