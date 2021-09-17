@@ -171,6 +171,7 @@ This repo contains some problems from different popular coding platforms like Co
 162. Ransom Note
 163. Balanced Binary Tree
 164. Populating Next Right Pointers in Each Node
+165. Validate Binary Search Tree
 
 
 # Hacker Blocks
