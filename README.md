@@ -166,12 +166,13 @@ This repo contains some problems from different popular coding platforms like Co
 157. Split Linked List in Parts
 158. Rotate List
 159. Maximum Number of Balloons
-160. Maximum Absolute Sum of Any Subarray
-161. Sort Characters By Frequency
-162. Ransom Note
-163. Balanced Binary Tree
-164. Populating Next Right Pointers in Each Node
-165. Validate Binary Search Tree
+160. [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray)
+161. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
+162. [Ransom Note](https://leetcode.com/problems/ransom-note)
+163. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+164. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
+165. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+166. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 
 # Hacker Blocks
