@@ -174,6 +174,7 @@ This repo contains some problems from different popular coding platforms like Co
 165. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 166. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 167. [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
+168. [DI String Match](https://leetcode.com/problems/di-string-match/)
 
 
 # Hacker Blocks
