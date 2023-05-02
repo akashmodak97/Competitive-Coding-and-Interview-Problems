@@ -14,18 +14,38 @@
 //Output: 1
 
 
+// class Solution {
+// public:
+//     int searchInsert(vector<int>& nums, int target) {
+//         int pos=0,i=0;
+//         while(i<nums.size())
+//         {
+//             if(target>nums[i])
+//                 pos++;
+//             else if(target==nums[i])
+//                 return pos;
+//             i++;
+//         }
+//         return pos;
+//     }
+// };
+
+// optimized solution 
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int pos=0,i=0;
-        while(i<nums.size())
-        {
-            if(target>nums[i])
-                pos++;
-            else if(target==nums[i])
-                return pos;
-            i++;
+        int low = 0, high = nums.size()-1, mid = low;
+
+        while(low<=high) {
+            mid = low + (high-low)/2;
+            if(nums[mid]==target )
+                return mid;
+            else if(target < nums[mid]) {
+                high = mid-1;
+            }else {
+                low = mid+1;
+            }
         }
-        return pos;
+        return low;
     }
 };
