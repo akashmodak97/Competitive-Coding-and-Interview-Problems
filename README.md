@@ -178,6 +178,7 @@ This repo contains some problems from different popular coding platforms like Co
 169. [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 170. [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
 171. [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)
+172. [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 
 
 # Hacker Blocks
