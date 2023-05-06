@@ -181,6 +181,7 @@ This repo contains some problems from different popular coding platforms like Co
 172. [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 173. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 174. [Watering Plants](https://leetcode.com/problems/watering-plants/)
+175. [Destination City](https://leetcode.com/problems/destination-city/)
 
 
 # Hacker Blocks
