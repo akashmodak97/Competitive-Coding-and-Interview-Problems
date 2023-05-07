@@ -38,7 +38,6 @@ public:
         for(int i=0;i<A.size();i++) {
             if(A[i]==B[i]) {
                 count++;
-                mp.insert(A[i]);
             }else{
                 if(mp.find(A[i])!=mp.end()) count++;
                 else mp.insert(A[i]);
