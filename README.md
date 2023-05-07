@@ -184,6 +184,7 @@ This repo contains some problems from different popular coding platforms like Co
 175. [Destination City](https://leetcode.com/problems/destination-city/)
 176. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 177. [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
+178. [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 
 
 # Hacker Blocks
