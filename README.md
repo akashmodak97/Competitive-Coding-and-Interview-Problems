@@ -186,6 +186,7 @@ This repo contains some problems from different popular coding platforms like Co
 177. [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 178. [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 179. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+180. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
 
 
 # Hacker Blocks
