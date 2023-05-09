@@ -188,6 +188,7 @@ This repo contains some problems from different popular coding platforms like Co
 179. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 180. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
 181. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+182. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
 
 # Hacker Blocks
