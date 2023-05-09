@@ -187,6 +187,7 @@ This repo contains some problems from different popular coding platforms like Co
 178. [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 179. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 180. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+181. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 
 
 # Hacker Blocks
