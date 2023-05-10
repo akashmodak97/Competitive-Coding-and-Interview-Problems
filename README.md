@@ -189,6 +189,7 @@ This repo contains some problems from different popular coding platforms like Co
 180. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
 181. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 182. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+183. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 
 # Hacker Blocks
