@@ -191,6 +191,7 @@ This repo contains some problems from different popular coding platforms like Co
 182. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 183. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 184. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+185. [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 
 
 # Hacker Blocks
