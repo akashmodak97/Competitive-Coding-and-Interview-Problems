@@ -193,6 +193,7 @@ This repo contains some problems from different popular coding platforms like Co
 184. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 185. [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 186. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+187. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 
 # Hacker Blocks
