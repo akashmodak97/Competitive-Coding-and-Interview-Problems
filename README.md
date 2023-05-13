@@ -194,6 +194,7 @@ This repo contains some problems from different popular coding platforms like Co
 185. [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 186. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
 187. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+188. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
 
 # Hacker Blocks
