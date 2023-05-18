@@ -197,6 +197,7 @@ This repo contains some problems from different popular coding platforms like Co
 188. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 189. [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 190. [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
+191. [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 
 
 # Hacker Blocks
