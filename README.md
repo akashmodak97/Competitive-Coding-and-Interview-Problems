@@ -199,6 +199,7 @@ This repo contains some problems from different popular coding platforms like Co
 190. [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
 191. [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 192. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+193. [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 
 
 # Hacker Blocks
