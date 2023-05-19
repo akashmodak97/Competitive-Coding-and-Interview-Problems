@@ -27,12 +27,34 @@
 
 class Solution {
 public:
-    int addDigits(int num) {
-        if(num==0)
-            return 0;
-        else if(num%9==0)
-            return 9;
-        else
-            return num%9;
+    vector<string> subdomainVisits(vector<string>& cpdomains) {
+        unordered_map<string,int> mp;
+        vector<string> res;
+        for(int i=0;i<cpdomains.size();i++){
+            int j;
+            for(j=0;j<cpdomains[i].length();j++) if(cpdomains[i][j]==' ')break;
+            int value=stoi(cpdomains[i].substr(0,j));
+            string temp1=cpdomains[i].substr(++j,cpdomains[i].length());
+            mp[temp1]+=value;
+            for(;j<cpdomains[i].length();j++)
+                if(cpdomains[i][j]=='.')break;
+            if(j+1<cpdomains[i].length()){
+                temp1=cpdomains[i].substr(++j,cpdomains[i].length());
+                mp[temp1]+=value;
+                temp1="";
+                for(;j<cpdomains[i].length();j++)
+                    if(cpdomains[i][j]=='.')break;
+                if(j+1<cpdomains[i].length()){
+                    temp1=cpdomains[i].substr(++j,cpdomains[i].length());
+                    mp[temp1]+=value;
+                }
+            }
+            
+        }
+        for(auto x: mp){
+            string temp=to_string(x.second)+" "+x.first;
+            res.push_back(temp);
+        }
+        return res;
     }
 };
