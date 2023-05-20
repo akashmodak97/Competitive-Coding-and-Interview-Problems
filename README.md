@@ -200,6 +200,7 @@ This repo contains some problems from different popular coding platforms like Co
 191. [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 192. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 193. [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+194. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 
 # Hacker Blocks
