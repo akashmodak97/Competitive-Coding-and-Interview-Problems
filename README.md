@@ -203,6 +203,7 @@ This repo contains some problems from different popular coding platforms like Co
 194. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 195. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 196. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+197. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 
 # Hacker Blocks
