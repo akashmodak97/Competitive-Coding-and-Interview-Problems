@@ -213,6 +213,7 @@ This repo contains some problems from different popular coding platforms like Co
 204. [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)
 205. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
 206. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+207. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 
 # Hacker Blocks
