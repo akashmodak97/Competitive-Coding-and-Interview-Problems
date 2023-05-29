@@ -214,6 +214,9 @@ This repo contains some problems from different popular coding platforms like Co
 205. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
 206. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 207. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+208. [House Robber](https://leetcode.com/problems/house-robber/)
+209. [Jump Game](https://leetcode.com/problems/jump-game/)
+210. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 
 # Hacker Blocks
