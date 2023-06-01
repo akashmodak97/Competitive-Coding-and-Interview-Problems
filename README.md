@@ -218,7 +218,7 @@ This repo contains some problems from different popular coding platforms like Co
 209. [Jump Game](https://leetcode.com/problems/jump-game/)
 210. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 211. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-212. [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string)
+212. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 
 
 # Hacker Blocks
