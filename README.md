@@ -219,6 +219,7 @@ This repo contains some problems from different popular coding platforms like Co
 210. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 211. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 212. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+213. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 
 # Hacker Blocks
