@@ -220,6 +220,7 @@ This repo contains some problems from different popular coding platforms like Co
 211. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 212. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 213. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+214. [Permutations II](https://leetcode.com/problems/permutations-ii/)
 
 
 # Hacker Blocks
