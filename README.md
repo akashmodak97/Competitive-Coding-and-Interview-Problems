@@ -221,6 +221,7 @@ This repo contains some problems from different popular coding platforms like Co
 212. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 213. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 214. [Permutations II](https://leetcode.com/problems/permutations-ii/)
+215. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
 
 
 # Hacker Blocks
