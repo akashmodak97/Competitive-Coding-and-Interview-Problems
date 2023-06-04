@@ -223,6 +223,7 @@ This repo contains some problems from different popular coding platforms like Co
 214. [Permutations II](https://leetcode.com/problems/permutations-ii/)
 215. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
 216. [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+217. [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 
 # Hacker Blocks
