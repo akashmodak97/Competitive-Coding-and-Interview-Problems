@@ -227,6 +227,7 @@ This repo contains some problems from different popular coding platforms like Co
 218. [Sum In A Matrix](https://leetcode.com/problems/sum-in-a-matrix/)
 219. [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
 220. [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
+221. [Combinations](https://leetcode.com/problems/combinations/description/)
 
 
 # Hacker Blocks
