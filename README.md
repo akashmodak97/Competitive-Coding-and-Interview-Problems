@@ -226,6 +226,7 @@ This repo contains some problems from different popular coding platforms like Co
 217. [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 218. [Sum In A Matrix](https://leetcode.com/problems/sum-in-a-matrix/)
 219. [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
+220. [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
 
 
 # Hacker Blocks
