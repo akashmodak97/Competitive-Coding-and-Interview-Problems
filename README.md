@@ -231,6 +231,8 @@ This repo contains some problems from different popular coding platforms like Co
 222. [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 223. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 224. [Gas Station](https://leetcode.com/problems/gas-station/description/)
+225. [N-Queens](https://leetcode.com/problems/n-queens/)
+226. [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
 
 # Hacker Blocks
