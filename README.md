@@ -233,6 +233,9 @@ This repo contains some problems from different popular coding platforms like Co
 224. [Gas Station](https://leetcode.com/problems/gas-station/description/)
 225. [N-Queens](https://leetcode.com/problems/n-queens/)
 226. [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+227. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+228. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+229. [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)
 
 
 # Hacker Blocks
