@@ -237,6 +237,7 @@ This repo contains some problems from different popular coding platforms like Co
 228. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 229. [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)
 230. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
+231. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 
 
 # Hacker Blocks
