@@ -239,6 +239,7 @@ This repo contains some problems from different popular coding platforms like Co
 230. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 231. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 232. [Word Break](https://leetcode.com/problems/word-break/)
+233. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 
 # Hacker Blocks
